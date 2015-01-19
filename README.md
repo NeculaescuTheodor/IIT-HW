@@ -1,2 +1,0 @@
-# IIT-HW
-IIT HW
